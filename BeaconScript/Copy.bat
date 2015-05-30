@@ -1,0 +1,1 @@
+copy C:\CycligentBuilder\_AutoBuildMobile\Beacon\ant.properties C:\Users\admin\Desktop\Folders\Beaconnew\ant.properties /Y
